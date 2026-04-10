@@ -23,6 +23,4 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
 </a>
 
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spinxxx-Soo&langs_count=4&layout=compact)](https://github.com/Spinxxx-Soo)
