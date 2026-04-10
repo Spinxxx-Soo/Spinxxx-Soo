@@ -1,8 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=150&section=header&text=Soomin's%20GitHub&fontSize=42" />
 
 <div align=center>
-#### 홍수민 | Hong soomin   
-#### 📚 Languages / Framework / AI / Data 📚
+  
+**홍수민 | Hong soomin**
+<br/>
+**📚 Languages / Framework / AI / Data 📚**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
