@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=#10B981&height=150&section=header&text=Soomin's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=10B981&height=150&section=header&text=Soomin's%20GitHub&fontSize=42" />
 
 <div align=center>
 <h3>안녕하세요! 홍수민입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
@@ -22,5 +22,5 @@
 <a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spinxxx-Soo&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
