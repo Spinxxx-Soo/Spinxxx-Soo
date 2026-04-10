@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=150&section=header&text=Soomin's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=150" />
 
 <div align=center>
   
