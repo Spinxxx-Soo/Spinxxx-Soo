@@ -1,10 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=150&section=header&text=Soomin's%20GitHub&fontSize=42" />
 
 <div align=center>
-<h3>안녕하세요! 홍수민입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
-</h3>
-  
-### 📚 Languages / Framework / AI / Data 📚
+#### 홍수민 | Hong soomin   
+#### 📚 Languages / Framework / AI / Data 📚
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
