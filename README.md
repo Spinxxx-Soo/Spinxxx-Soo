@@ -4,7 +4,7 @@
 <h3>안녕하세요! 홍수민입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
   
-## 📚 Languages / Framework / Tools 📚
+### 📚 Languages / Framework / Tools 📚
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,4 +25,4 @@
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spinxxx-Soo&langs_count=4&layout=compact)](https://github.com/YOUR_ID)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spinxxx-Soo&langs_count=4&layout=compact)](https://github.com/Spinxxx-Soo)
