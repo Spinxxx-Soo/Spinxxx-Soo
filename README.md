@@ -19,8 +19,4 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<a href="https://grafana.com/">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spinxxx-Soo&langs_count=4&layout=compact)](https://github.com/Spinxxx-Soo)
