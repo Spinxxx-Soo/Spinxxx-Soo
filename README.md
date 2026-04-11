@@ -9,6 +9,11 @@
 **홍수민 ·  Hong soomin**
 <br/>
 <br/>
+<<<<<<< HEAD
+=======
+<img src="./assets/profile.png"/>
+<br/>
+>>>>>>> 8bdcef1 (docs: readme 업데이트)
 **Business × Statistics × AI**
 <br/>
 기술만이 아닌 **비즈니스 맥락에서 문제를 정의하고**
