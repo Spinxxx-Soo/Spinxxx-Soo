@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-**Business × Statistics × AI**
+<h6>Business × Statistics × AI</h6>
 <br/>
 
 기술만이 아닌 **비즈니스 맥락에서 문제를 정의하고**
