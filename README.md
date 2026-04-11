@@ -1,18 +1,26 @@
 <div align="center">
 
-#### 🧭 About Me
+### 🧭 About Me
 
 **홍수민 ·  Hong soomin**
 <br/>
 <br/>
-**Business × Statistics × AI — bridging the gap between data and decisions.**
+**Business × Statistics × AI**
 <br/>
-기술만이 아닌 **비즈니스 맥락에서 문제를 정의하고** AI로 풀어내는 개발자를 목표로 합니다.
+기술만이 아닌 **비즈니스 맥락에서 문제를 정의하고**
+<br/>
+AI로 풀어내는 개발자를 목표로 합니다.
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
-#### ⚙️ Tech Stack
-
+### ⚙️ Tech Stack
+<br/>
+<br/>
+<br/>
+<br/>
 **🟢 most used**
 <br/>
 <br/>
@@ -33,7 +41,12 @@
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 **📊 GitHub Stats**
