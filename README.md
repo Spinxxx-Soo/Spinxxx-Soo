@@ -1,6 +1,10 @@
 <div align="center">
 
 ### 🧭 About Me
+<br/>
+<br/>
+<br/>
+<br/>
 
 **홍수민 ·  Hong soomin**
 <br/>
@@ -18,6 +22,8 @@ AI로 풀어내는 개발자를 목표로 합니다.
 
 ### ⚙️ Tech Stack
 
+<br/>
+<br/>
 
 **🟢 most used**
 
@@ -36,6 +42,7 @@ AI로 풀어내는 개발자를 목표로 합니다.
 <br/>
 <br/>
 <br/>
+
 **🟡 Learning & Exploring**
 
 <br/>
