@@ -9,7 +9,7 @@
 **홍수민 ·  Hong soomin**
 <br/>
 <br/>
-<img src="./assets/profile.png"/>
+<img src="./assets/profile.png" width="100" alt="profile"/>
 <br/>
 **Business × Statistics × AI**
 <br/>
@@ -63,6 +63,6 @@ AI로 풀어내는 개발자를 목표로 합니다.
 
 **📊 GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sprinxxx-Soo&show_icons=true&theme=default"/>
 
 </div>
