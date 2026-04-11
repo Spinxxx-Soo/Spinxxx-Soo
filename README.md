@@ -1,24 +1,17 @@
 <div align="center">
 
+###### 🧭 About Me
+
 **홍수민 ·  Hong soomin**
-경영학, 정보통계학 전공
-
+<br/>
+<br/>
 **Business × Statistics × AI — bridging the gap between data and decisions.**
-
+<br/>
 기술만이 아닌 **비즈니스 맥락에서 문제를 정의하고** AI로 풀어내는 개발자를 목표로 합니다.
 
 --
 
-**🧭 About Me**
-
-- 🎓 경영학 + 정보통계학 전공 — 도메인 이해와 데이터 사고를 동시에  
-- 🤖 AI 개발자 지향 — LLM 파인튜닝 및 RAG 파이프라인 구현 경험  
-- 📐 기획 → 개발 → 배포까지 흐름을 이해하는 풀사이클 시각 보유  
-- ✍️ 기술 블로그 시작 준비 중  
-
---
-
-**⚙️ Tech Stack**
+###### ⚙️ Tech Stack
 <br/>
 **🟢 most used**
 <br/>
