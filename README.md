@@ -45,6 +45,6 @@ AI로 풀어내는 개발자를 목표로 합니다.
 
 #### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sprinxxx-Soo&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Spinxxx-Soo&show_icons=true&theme=default"/>
 
 </div>
