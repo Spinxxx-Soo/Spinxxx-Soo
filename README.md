@@ -1,6 +1,6 @@
 <div align="center">
 
-###### 🧭 About Me
+#### 🧭 About Me
 
 **홍수민 ·  Hong soomin**
 <br/>
@@ -9,11 +9,12 @@
 <br/>
 기술만이 아닌 **비즈니스 맥락에서 문제를 정의하고** AI로 풀어내는 개발자를 목표로 합니다.
 
---
+---
 
-###### ⚙️ Tech Stack
-<br/>
+#### ⚙️ Tech Stack
+
 **🟢 most used**
+<br/>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -31,6 +32,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
 ---
 
 
